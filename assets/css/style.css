@@ -8,6 +8,7 @@
 
 body {
     font-family: 'Overpass', sans-serif;
+    font-size: 18px;
     font-weight: 300;
     color: black;
 }
@@ -106,7 +107,7 @@ h1, h2 {
 .left-part-heading {
     width: 100%;
     float: left;
-    line-height: 44px;
+    line-height: 35px;
     margin-bottom: 70px;
 }
 
@@ -133,7 +134,7 @@ hr {
 .right-part-heading {
     width: 100%;
     float: right;
-    line-height: 40px;
+    line-height: 35px;
     margin-bottom: 50px;
 }
 
