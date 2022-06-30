@@ -59,7 +59,7 @@ h1, h2 {
 /* main image */ 
 
 #main-outer {
-    height: 800px;
+    height: 1000px;
     width: 100%;
     overflow: hidden;
 }
@@ -108,6 +108,26 @@ h1, h2 {
     float: left;
     line-height: 44px;
     margin-bottom: 70px;
+}
+
+hr {
+    border-top: 2px solid #2a2a2a;
+    width: 35%;
+}
+
+.left-part-heading > hr {
+    border-top: 2px solid #2a2a2a;
+    width: 15%;
+}
+
+.right-part-heading > hr {
+    border-top: 2px solid #2a2a2a;
+    width: 33%;
+}
+
+#relax-hr {
+    border-top: 2px solid #2a2a2a;
+    width: 35%;
 }
 
 .right-part-heading {
