@@ -55,3 +55,77 @@ h1, h2 {
 .active {
     border-bottom: 4px solid #B22222;
 }
+
+/* main image */ 
+
+#main-outer {
+    height: 800px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#main-image {
+    background: url('../images/peter-conlan-LEgwEaBVGMo-unsplash\ \(2\).jpg') center 10% / cover no-repeat; ;
+    height: 50vh
+}
+
+/* everyday hacks */
+
+#everydays-hacks {
+    height: 800px;
+}
+
+#left-part {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+    clear: both;
+}
+
+#subimage-left {
+    background: url('../images/louis-hansel-s9Yc_FqP2q0-unsplash\ \(1\).jpg') no-repeat center;
+    width: 50%;
+    height: 500px;
+    float: right;
+}
+
+#right-part {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+    clear: both;
+}
+
+#subimage-right {
+    background: url('../images/ferenc-almasi-2bXo_nmccSU-unsplash\ \(1\).jpg') no-repeat center;
+    width: 50%;
+    height: 500px;
+    float: right;
+}
+
+.left-part-heading {
+    width: 100%;
+    float: left;
+    line-height: 44px;
+    margin-bottom: 70px;
+}
+
+.right-part-heading {
+    width: 100%;
+    float: right;
+    line-height: 40px;
+    margin-bottom: 50px;
+}
+
+#everyday-h {
+   text-align: center;
+   margin: 50px 0;
+   font-size: 280%; 
+}
+
+/* section */
+
+.testing {
+    height: 800px;
+    clear: both;
+}
