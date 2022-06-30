@@ -117,15 +117,24 @@ h1, h2 {
     margin-bottom: 50px;
 }
 
-#everyday-h {
+#tilte-hacks {
    text-align: center;
    margin: 50px 0;
    font-size: 280%; 
 }
 
-/* section */
+/* Mind Hacks */
 
-.testing {
+#mind-hacks {
     height: 800px;
+    background-color: aquamarine;
     clear: both;
+}
+
+#subimage-right-mind {
+    background: url('../images/windows-wpIYy2lZ04s-unsplash.jpg') no-repeat center;
+    width: 50%;
+    height: 600px;
+    float: right;
+    margin: 60px 0;
 }
