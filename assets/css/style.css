@@ -152,3 +152,24 @@ h1, h2 {
     height: 550px;
     float: left;
 }
+
+/* footer */
+
+footer {
+    height: 150px;
+    background-color: aquamarine;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 275%;
+    margin: 2.5%;
+    color: red;
+}
